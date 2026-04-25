@@ -1,12 +1,12 @@
 # ☁️ CloudNative: Professional Spring Cloud Microservices Blueprint
 
-![CloudNative Hero Banner](/home/raven/.gemini/antigravity/brain/0e34cd78-0977-463f-ad0b-5adbc09a1bac/cloudnative_micro_hero_banner_1777060957591.png)
+![CloudNative Hero Banner](./assets/cloudnative_micro_hero_banner_1777060957591.png)
 
 CloudNative is a production-ready demonstration of distributed systems using **Spring Boot 3** and **Spring Cloud**. It provides a complete blueprint for building, discovering, and monitoring microservices in a cloud-native environment, integrated with modern observability tools like **Grafana**, **Prometheus**, and **Micrometer**.
 
 ## 🌐 Live Demo
-- **Live API Portal**: [https://saanvirajput.github.io/cloudnative-micro-demo/](https://saanvirajput.github.io/cloudnative-micro-demo/)
 
+- **Live API Portal**: [https://saanvirajput.github.io/cloudnative-micro-demo/](https://saanvirajput.github.io/cloudnative-micro-demo/)
 
 ## 🏗️ Architectural Blueprint
 
